@@ -1,0 +1,6 @@
+{
+  "name": "TRAVEL NWS",
+  "description": "NawabShah ride-hailing and fare bidding app inspired by Yango and inDrive. Real-time GPS tracking, driver fare negotiation, in-ride chat, SOS emergency button, and offline trip cache.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
